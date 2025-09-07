@@ -1,0 +1,7 @@
+README.md
+setup.py
+src/example.egg-info/PKG-INFO
+src/example.egg-info/SOURCES.txt
+src/example.egg-info/dependency_links.txt
+src/example.egg-info/top_level.txt
+tests/test_operation.py
